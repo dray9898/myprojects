@@ -1,0 +1,2 @@
+This (file) tests (parenthesis) {brackets} [square], commas and semicolons; this is the end and the period. Thisx sentence isx Half mispelled.
+ By HALF misspelled, and has the use of COMMAS. 
